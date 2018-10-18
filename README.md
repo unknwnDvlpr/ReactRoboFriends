@@ -9,4 +9,6 @@ This fun application uses the GIPHY API to create a dynamic web page that popula
 HTML / CSS / JavaScript / jQuery
 
 
-![REACTROBO](Images/ReactApp.png)
+![REACTROBO](/public/images/ReactApp.png)
+MobileResponsive.jpg
+![REACTROBO2](/public/images/MobileResponsive.jpg)
