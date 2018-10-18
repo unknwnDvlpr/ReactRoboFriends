@@ -1,0 +1,6 @@
+body {
+  /* background-image: url("https://images.pexels.com/photos/1115762/pexels-photo-1115762.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"); */
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(to left, rgb(211, 13, 13) 0%, rgb(34, 178, 235)100%);
+}
