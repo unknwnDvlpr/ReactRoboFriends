@@ -1,7 +1,7 @@
 # ReactRoboFriends
 
 ### Overview
-https://unknwndvlpr.github.io/ReactRoboFriends/
+https://robo-friends-react.herokuapp.com/
 
 This fun application uses the RoboHash Api to create a responsive react web page. 
 
